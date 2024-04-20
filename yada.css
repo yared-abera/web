@@ -1,0 +1,8 @@
+/* this is class selector */
+.container {
+  padding-left: 400px;
+}
+
+.cs {
+  color: rgb(37, 186, 39);
+}
